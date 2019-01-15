@@ -1,0 +1,10 @@
+{
+  "name": "yarn-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Navis",
+  "license": "MIT",
+  "dependencies": {
+    "dogefy": "^0.1.4"
+  }
+}
